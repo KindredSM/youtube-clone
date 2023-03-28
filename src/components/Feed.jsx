@@ -33,9 +33,7 @@ const Feed = () => {
       <Box p={2} sx={{ overflowY: "auto", height: "100vh", flex: 2 }}>
         <Typography
           variant="h4"
-          display="flex"
-          justifyContent="center"
-          gap="8px"
+          textAlign="center"
           fontWeight="bold"
           mb={2}
           sx={{ color: "white" }}>

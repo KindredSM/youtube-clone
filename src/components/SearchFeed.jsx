@@ -20,9 +20,7 @@ const SearchFeed = () => {
       <Typography
         variant="h4"
         fontWeight={900}
-        display="flex"
-        gap="8px"
-        justifyContent="center"
+        textAlign="center"
         color="white"
         mb={3}
         ml={{ sm: "100px" }}>
